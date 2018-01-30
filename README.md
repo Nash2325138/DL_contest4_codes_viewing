@@ -6,8 +6,8 @@
 # Contest 4 Report
 
 Team Members:
-- 103062240 蔡宗宇
 - 103062224 劉哲宇
+- 103062240 蔡宗宇
 - 103062101 陳孜宇
 
 Here is the [codes](https://github.com/Nash2325138/DL_contest4_codes_viewing) for TA to view.
@@ -154,9 +154,10 @@ What we do is:
 Below is the result before and after we add wrong images into the network.
 Although they seems both not good enough, we had little improvement on the score.
 
-*Without Wrong Images (200 epoch)*
+### Without Wrong Images (200 epoch)
 <img src="report/files/no_wrong_example.png">
-*With Wrong Images (200 epoch)*
+
+### With Wrong Images (200 epoch)
 <img src="report/files/wrong_example.png">
 
 # Random distortion to images
