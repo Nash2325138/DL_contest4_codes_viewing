@@ -46,6 +46,7 @@ We use pretrained word vectors fro spaCy.
 For the model of given code, the training process is **not stable** and frequently encounter the problem of **mode collapse**. For example:
 #### <center> Train with no gradient penalty (85 epoch)</center>
 <img src="report/files/train_85.png">
+
 #### <center> Train with no gradient penalty (90 epoch)</center>
 <img src="report/files/train_90.png">
 
